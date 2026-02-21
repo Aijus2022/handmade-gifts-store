@@ -1,114 +1,130 @@
 [
     {
         "_id": 1,
-        "title": "Winter Warmers",
-        "description": "Seasonal teas, coffee, and hot chocolate.",
-        "price": 25.00,
-        "image": "/images/tea.jpg"
+        "title": "Handmade Crochet Bag",
+        "description": "Elegant crochet bag perfect as a luxury gift.",
+        "price": 85.00,
+        "image": "/images/jacquad-crochet-bag.jpg",
+        "category": "Bags"
     },
     {
         "_id": 2,
-        "title": "Festive Hampers",
-        "description": "Filled with holiday delights.",
-        "price": 50.00,
-        "image": "/images/giftbox.jpg"
+        "title": "Colorwork Knitted Hat",
+        "description": "Colorwork Hand Knitted Hat",
+        "price": 120.00,
+        "image": "/images/hat-adult.jpg",
+        "category": "Hats"
     },
     {
         "_id": 3,
-        "title": "Luxury Crackers",
-        "description": "Luxurious crackers for the Christmas table.",
-        "price": 15.00,
-        "image": "/images/crackers.jpg"
+        "title": "Knitted Baby Dress",
+        "description": "Soft and warm hand-knitted sweater for children.",
+        "price": 60.00,
+        "image": "/images/baby-dress-2.jpg",
+        "category": "Clothing"
     },
     {
         "_id": 4,
-        "title": "Exclusive Wines",
-        "description": "Exclusive wines for the season.",
-        "price": 75.00,
-        "image": "/images/wine-and-spirits.jpg"
+        "title": "Handmade Crochet Bag",
+        "description": "Handmade mosaic crochet bag.",
+        "price": 95.00,
+        "image": "/images/mosaic-crochet-bag.jpg",
+        "category": "Bags"
     },
     {
         "_id": 5,
-        "title": "Advent Calendar",
-        "description": "A festive advent calendar to count down the days.",
-        "price": 40.00,
-        "image": "/images/advent-calendar.gif"
+        "title": "Mosaic Crochet Mandala Rug",
+        "description": "Luxurious handmade mandala rug",
+        "price": 350.00,
+        "image": "/images/mosaic-rug.jpg",
+        "category": "Carpets"
     },
     {
         "_id": 6,
-        "title": "Champagne Hamper",
-        "description": "Elegant champagne hamper for celebrations.",
-        "price": 120.00,
-        "image": "/images/champain-hamper.jpg"
+        "title": "Crochet Hat",
+        "description": "Stylish handmade crochet hat for adults.",
+        "price": 45.00,
+        "image": "/images/mosaic-crochet-hat.jpg",
+        "category": "Hats"
     },
     {
         "_id": 7,
-        "title": "Chocolate Selection",
-        "description": "Assorted chocolates for the festive season.",
-        "price": 30.00,
-        "image": "/images/chocolate.jpg"
+        "title": "Knitted Scarf",
+        "description": "Cozy hand-knitted scarf, perfect for winter.",
+        "price": 50.00,
+        "image": "/images/cable-knit-scarf.jpg",
+        "category": "Clothing"
     },
     {
         "_id": 8,
-        "title": "Food Hall Specialties",
-        "description": "A variety of treats from our food hall.",
-        "price": 65.00,
-        "image": "/images/foodhall.jpg"
+        "title": "Crochet Baby Blanket",
+        "description": "Soft and warm crochet blanket for babies.",
+        "price": 70.00,
+        "image": "/images/crochet-baby-blanket.jpg",
+        "category": "Accessories"
     },
     {
         "_id": 9,
-        "title": "Home Decorations",
-        "description": "Beautiful decorations to make your home festive.",
-        "price": 45.00,
-        "image": "/images/home.jpg"
+        "title": "Hand-made Mosaic crochet carpet",
+        "description": "Decorative and practical mosaic crochet carpet.",
+        "price": 35.00,
+        "image": "/images/mosaic-crochet-carpet.jpg",
+        "category": "Carpets"
     },
     {
         "_id": 10,
-        "title": "Holiday Banner",
-        "description": "Festive banner for your holiday events.",
-        "price": 20.00,
-        "image": "/images/homebanner.jpg"
+        "title": "Knitted Winter Hat",
+        "description": "Handmade warm knitted hat for adults.",
+        "price": 55.00,
+        "image": "/images/hat-adult.jpg",
+        "category": "Hats"
     },
     {
         "_id": 11,
-        "title": "Classic Hamper",
-        "description": "A nice hamper filled with classic treats.",
-        "price": 55.00,
-        "image": "/images/nice-hamper.jpg"
+        "title": "Luxury Crochet Handbag",
+        "description": "Beautiful handmade crochet handbag for special occasions.",
+        "price": 150.00,
+        "image": "/images/raffia-bag.jpg",
+        "category": "Bags"
     },
     {
         "_id": 12,
-        "title": "Tea Selection 2",
-        "description": "A special selection of teas for relaxation.",
-        "price": 18.00,
-        "image": "/images/tea-2.jpg"
+        "title": "Handwoven Rug",
+        "description": "Artisan jaquard rug crocheted with natural fibers.",
+        "price": 400.00,
+        "image": "/images/kover-jakkard.jpg",
+        "category": "Carpets"
     },
     {
         "_id": 13,
-        "title": "Tea Selection 3",
-        "description": "A delightful collection of seasonal teas.",
-        "price": 20.00,
-        "image": "/images/tea-3.jpg"
+        "title": "Crochet Baby Booties",
+        "description": "Cute and soft handmade booties for newborns.",
+        "price": 25.00,
+        "image": "/images/bear-baby-booties.jpg",
+        "category": "Clothing"
     },
     {
         "_id": 14,
-        "title": "Tea Selection 4",
-        "description": "A warm assortment of tea for the cold days.",
-        "price": 22.00,
-        "image": "/images/tea-4.jpg"
+        "title": "Mosaic Crochet Throw Blanket",
+        "description": "Soft and luxurious knitted throw for your sofa.",
+        "price": 80.00,
+        "image": "/images/mosaic-crochet-throw.jpg",
+        "category": "Accessories"
     },
     {
         "_id": 15,
-        "title": "Teabox Hamper",
-        "description": "A hamper filled with fine teas and treats.",
+        "title": "Mosaic crochet pillow",
+        "description": "Handmade mosaic crochet pillow.",
         "price": 60.00,
-        "image": "/images/teabox-hamper.jpg"
+        "image": "/images/iris-crochet-pillow.jpg",
+        "category": "Accessories"
     },
     {
         "_id": 16,
-        "title": "Fine Vine Selection",
-        "description": "Exclusive vine selection for the holidays.",
-        "price": 70.00,
-        "image": "/images/vine.jpg"
+        "title": "Knitted Tiny Hat",
+        "description": "Stylish handmade crochet sun hat for summer.",
+        "price": 50.00,
+        "image": "/images/tiny-hat-white.jpg",
+        "category": "Hats"
     }
 ]
